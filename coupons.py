@@ -3,7 +3,8 @@ import urllib2
 import optparse
 
 host = 'http://api2.yp.com/listings/v1/coupons'
-key = '3dd19ebb13e05d4ce6fdbf98414dbaea'
+key = 'xxxxxxx'
+# Get your API key at http://developer.yp.com/
 
 # Search options
 
