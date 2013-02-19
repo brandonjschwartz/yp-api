@@ -14,7 +14,7 @@ options, args = parser.parse_args()
 
 # Required options
 
-if not options.listingid:
+if not options.searchloc:
     parser.error('Where?')
 
 # URL params
